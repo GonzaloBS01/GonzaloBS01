@@ -53,8 +53,8 @@ Colección de proyectos donde experimento con nuevas tecnologías y buenas prác
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GonzaloBS01&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloBS01&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GonzaloBS01&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GonzaloBS01&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -120,8 +120,8 @@ A collection of projects where I experiment with new technologies and software d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GonzaloBS01&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloBS01&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GonzaloBS01&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GonzaloBS01&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
